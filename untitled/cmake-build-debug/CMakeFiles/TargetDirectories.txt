@@ -1,0 +1,5 @@
+C:/Users/main/Desktop/untitled/cmake-build-debug/CMakeFiles/program.dir
+C:/Users/main/Desktop/untitled/cmake-build-debug/CMakeFiles/glut.dir
+C:/Users/main/Desktop/untitled/cmake-build-debug/CMakeFiles/glew.dir
+C:/Users/main/Desktop/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/main/Desktop/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
